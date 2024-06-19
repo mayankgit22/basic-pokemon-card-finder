@@ -1,0 +1,20 @@
+#pokemonInput{margin-top: 30px;
+    font-size: 2rem;
+    width: 400px;
+    border-radius: 8px;
+}
+#button{width: 280px;
+    cursor: pointer;
+    font-size: 2rem;
+    border-radius: 20px;
+    border: navajowhite
+;color: aliceblue;
+font-family: monospace;
+    background-color: hsl(222, 70%, 57%);
+}
+#button:active{
+    background-color: hsl(222, 84%, 70%);
+}
+#button:hover{
+    background-color: hsl(222, 84%, 65%);
+}
